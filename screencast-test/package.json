@@ -1,0 +1,21 @@
+{
+  "name": "screencast-test",
+  "version": "0.0.1",
+  "description": "A simple TDD project to test screen casts",
+  "main": "",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "James York",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.0.1",
+    "gulp-jshint": "^1.11.2",
+    "jasmine-core": "^2.3.4",
+    "jshint-stylish": "^2.0.1",
+    "karma": "^0.13.2",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
+}
